@@ -1,0 +1,14 @@
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\bin\Debug\net8.0\Ler arquivo XML e serializar.exe
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\bin\Debug\net8.0\Ler arquivo XML e serializar.deps.json
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\bin\Debug\net8.0\Ler arquivo XML e serializar.runtimeconfig.json
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\bin\Debug\net8.0\Ler arquivo XML e serializar.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\bin\Debug\net8.0\Ler arquivo XML e serializar.pdb
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.AssemblyInfoInputs.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.AssemblyInfo.cs
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.csproj.CoreCompileInputs.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\refint\Ler arquivo XML e serializar.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.pdb
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\Ler arquivo XML e serializar.genruntimeconfig.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Ler arquivo XML e serializar\Ler arquivo XML e serializar\obj\Debug\net8.0\ref\Ler arquivo XML e serializar.dll

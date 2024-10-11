@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ler arquivo XML e serializar/1.0.0": {
+        "runtime": {
+          "Ler arquivo XML e serializar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ler arquivo XML e serializar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
