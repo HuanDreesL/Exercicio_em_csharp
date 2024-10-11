@@ -1,0 +1,14 @@
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net8.0\Manipulando Arquivos.exe
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net8.0\Manipulando Arquivos.deps.json
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net8.0\Manipulando Arquivos.runtimeconfig.json
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net8.0\Manipulando Arquivos.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\bin\Debug\net8.0\Manipulando Arquivos.pdb
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.AssemblyInfoInputs.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.AssemblyInfo.cs
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\refint\Manipulando Arquivos.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.pdb
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\Manipulando Arquivos.genruntimeconfig.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Manipulando Arquivos\Manipulando Arquivos\obj\Debug\net8.0\ref\Manipulando Arquivos.dll
