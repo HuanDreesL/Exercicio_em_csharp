@@ -1,0 +1,14 @@
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\bin\Debug\net8.0\Produtos XML.exe
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\bin\Debug\net8.0\Produtos XML.deps.json
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\bin\Debug\net8.0\Produtos XML.runtimeconfig.json
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\bin\Debug\net8.0\Produtos XML.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\bin\Debug\net8.0\Produtos XML.pdb
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.AssemblyInfoInputs.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.AssemblyInfo.cs
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.csproj.CoreCompileInputs.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\refint\Produtos XML.dll
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.pdb
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\Produtos XML.genruntimeconfig.cache
+C:\Users\huandres_schmidt\Desktop\Exercicio C\Produtos XML\Produtos XML\obj\Debug\net8.0\ref\Produtos XML.dll
